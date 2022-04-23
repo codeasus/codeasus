@@ -51,9 +51,7 @@
   - [Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://www.amazon.com/dp/0134494164/ref=cm_sw_r_tw_dp_ZM23APP5MFEHK4KWGZBC)
   - [Get Your Hands Dirty on Clean Architecture: A hands-on guide to creating clean web applications with code examples in Java](https://www.amazon.com/dp/1839211962/ref=cm_sw_r_tw_dp_N2VTMARVPD6F8D282FKA)
 
-
 <br/>
-
 
 ## 📊 GitHub Stats
 
