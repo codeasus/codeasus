@@ -23,7 +23,6 @@
 
 <br/>
 
-<img align="left" alt="JetBrains"    width="32px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/jetbrains/jetbrains-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Java"         width="32px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/java/java-original.svg"          style="padding-right:10px;" />
 <img align="left" alt="Kotlin"       width="32px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/kotlin/kotlin-original.svg"      style="padding-right:10px;" />
 <img align="left" alt="Android"      width="32px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/android/android-plain.svg"       style="padding-right:10px;" />
@@ -39,6 +38,8 @@
 <img align="left" alt="VS Code"      width="32px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/vscode/vscode-original.svg"      style="padding-right:10px;" />
 
 <br/><br/><br/>
+
+<img alt="JetBrains"    width="64px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/jetbrains/jetbrains-original.svg" style="padding-right:10px;" />
 
 ---
 
