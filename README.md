@@ -4,7 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeasus?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2codeasus&screen_name=codeasus)&nbsp;&nbsp;&nbsp;&nbsp;[![codeasus](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/codeasus/)
 
 
-- ### My online dev profile is under construction, what seems less now will be updated and improved upon.
+- My online dev profile is under construction, what seems less now will be updated and improved upon.
 <br/>
 
 ## I'm a Software Engineer mainly on the JVM platform.
