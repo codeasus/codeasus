@@ -9,11 +9,11 @@
 
 ## I'm a Software Engineer mainly on the JVM platform.
 
-- I’m currently working as an Android Developer(Java/Kotlin) & writing REST services occasionally in Spring.
+- I work as an Android Developer(Java/Kotlin) & writing REST services occasionally in Spring.
 - I'm currently mastering Algorithms & Data Structures, trying to get into competitive programming and and improve my math skills.
-- I'm looking for remote opportunities to be a part of global projects and shape my career around working while traveling.  
-- I love reading a LOT, especially adventure and psychological books, however, since I am an engineer, I spend most of my spare time dedicated to reading to read technical books.
-- I love hiking & spending a quality time in the nature.
+- I look for remote opportunities to be a part of global projects and shape my career around working while traveling.  
+- I love reading a LOT, especially adventure and psychological books, however, since I am an engineer I spend most of my spare time dedicated to reading to read technical books.
+- I LOVE HIKING & SPENDING a quality time in the nature.
 
 <br/>
 
