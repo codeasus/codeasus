@@ -31,9 +31,7 @@
   <img align="left" alt="C++"          width="32px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
   <img align="left" alt="Docker"       width="32px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/docker/docker-plain.svg"       style="padding-right:10px;" />
   <img align="left" alt="MySQL"        width="32px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/mysql/mysql-original.svg"     style="padding-right:10px;" />
-  <img align="left" alt="==PostgreSQL" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/postgresql/postgresql-plain.svg"   style="padding-right:10px;"/>
-  <img align="left" alt="HTML5"        width="32px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/html5/html5-original.svg"     style="padding-right:10px;" />
-  <img align="left" alt="CSS3"         width="32px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/css3/css3-original.svg"      style="padding-right:10px;" />
+  <img align="left" alt="==PostgreSQL" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/postgresql/postgresql-plain.svg"         style="padding-right:10px;" />
   <img align="left" alt="Git"          width="32px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/git/git-original.svg"       style="padding-right:10px;" />
   <img align="left" alt="VS Code"      width="32px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/vscode/vscode-original.svg"    style="padding-right:10px;" />
 </div>
