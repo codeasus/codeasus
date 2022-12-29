@@ -50,9 +50,3 @@
   - [Get Your Hands Dirty on Clean Architecture: A hands-on guide to creating clean web applications with code examples in Java](https://www.amazon.com/dp/1839211962/ref=cm_sw_r_tw_dp_N2VTMARVPD6F8D282FKA)
 
 <br/>
-
-## 📊 GitHub Stats
-
-<br/>
-
-<img alt="codeasus's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codeasus&show_icons=true&include_all_commits=true&cache_seconds=86400&theme=github_dark" />
