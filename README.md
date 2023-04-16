@@ -7,7 +7,7 @@
 - My online dev profile is under construction, what seems less now will be updated and improved upon.
 <br/>
 
-## I'm a Software Engineer mainly on the JVM platform.
+## I'm a software engineer mainly on the JVM platform.
 
 - I work as an Android Developer(Java/Kotlin) & write REST services in Spring.
 - I'm currently mastering Algorithms & Data Structures, trying to get into competitive programming and improve my math skills.
