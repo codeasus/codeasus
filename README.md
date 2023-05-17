@@ -27,10 +27,8 @@
   <img align="left" alt="Kotlin"       width="32px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/kotlin/kotlin-original.svg"    style="padding-right:10px;" />
   <img align="left" alt="Android"      width="32px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/android/android-plain.svg"      style="padding-right:10px;" />
   <img align="left" alt="Spring"       width="32px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/spring/spring-original.svg"    style="padding-right:10px;" />
-  <img align="left" alt="Python"       width="32px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/python/python-original.svg"    style="padding-right:10px;" />
   <img align="left" alt="C++"          width="32px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
   <img align="left" alt="Docker"       width="32px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/docker/docker-plain.svg"       style="padding-right:10px;" />
-  <img align="left" alt="MySQL"        width="32px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/mysql/mysql-original.svg"     style="padding-right:10px;" />
   <img align="left" alt="==PostgreSQL" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/postgresql/postgresql-plain.svg"         style="padding-right:10px;" />
   <img align="left" alt="Git"          width="32px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/git/git-original.svg"       style="padding-right:10px;" />
   <img align="left" alt="VS Code"      width="32px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/vscode/vscode-original.svg"    style="padding-right:10px;" />
