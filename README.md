@@ -22,16 +22,16 @@
 <br/>
 
 <div>
-  <img align="left" alt="JetBrains"    width="32px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/jetbrains/jetbrains-original.svg" style="padding-right:10px;" />
   <img align="left" alt="Java"         width="32px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/java/java-original.svg"      style="padding-right:10px;" />
   <img align="left" alt="Kotlin"       width="32px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/kotlin/kotlin-original.svg"    style="padding-right:10px;" />
+  <img align="left" alt="C++"          width="32px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
   <img align="left" alt="Android"      width="32px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/android/android-plain.svg"      style="padding-right:10px;" />
   <img align="left" alt="Spring"       width="32px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/spring/spring-original.svg"    style="padding-right:10px;" />
-  <img align="left" alt="C++"          width="32px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
   <img align="left" alt="Docker"       width="32px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/docker/docker-plain.svg"       style="padding-right:10px;" />
   <img align="left" alt="==PostgreSQL" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/postgresql/postgresql-plain.svg"         style="padding-right:10px;" />
   <img align="left" alt="Git"          width="32px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/git/git-original.svg"       style="padding-right:10px;" />
   <img align="left" alt="VS Code"      width="32px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/vscode/vscode-original.svg"    style="padding-right:10px;" />
+  <img align="left" alt="JetBrains"    width="32px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/jetbrains/jetbrains-original.svg" style="padding-right:10px;" />
 </div>
 
 <br/><br/><br/>
