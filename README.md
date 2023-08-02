@@ -42,7 +42,7 @@
 - Currently reading
   - [Clean Code: A Handbook of Agile Software Craftsmanship](https://a.co/d/18GVMvq)
   - [Kotlin Coroutines by Tutorials (Second Edition): Mastering Coroutines in Kotlin and Android](https://a.co/d/1OeF5us)
-  - [Kotlin in Action](https://a.co/d/4U6venw6)
+  - [Kotlin in Action](https://a.co/d/aT5GDAP)
 - Next one in the list
   - [Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://a.co/d/09Uz8K5)
 
