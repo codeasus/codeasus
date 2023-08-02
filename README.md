@@ -10,9 +10,8 @@
 ## I'm a software engineer mainly on the JVM platform.
 
 - I work as an Android Developer(Java/Kotlin) & write REST services in Spring.
-- I'm currently mastering Algorithms & Data Structures, trying to get into competitive programming and improve my math skills.
-- I look for remote opportunities to be a part of global projects and shape my career around working while traveling.  
-- I love reading a LOT, especially adventure and psychological books, however, since I am an engineer I spend most of my spare time dedicated to reading to read technical books.
+- I'm currently mastering Algorithms & Data Structures, trying to get into competitive programming and improve my math skills.  
+- I love reading a LOT, especially adventure, political and psychological books, however, since I am an engineer I spend most of my spare time to read technical books.
 - I LOVE HIKING & SPENDING a quality time in the nature.
 
 <br/>
@@ -41,10 +40,10 @@
 <br/>
 
 - Currently reading
-  - [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/dp/0132350882/ref=cm_sw_r_tw_dp_CZMN3NFZKDB2SYEVWTP3)
-  - [Kotlin in Action](https://www.amazon.com/Kotlin-Action-Dmitry-Jemerov/dp/1617293296)
-- Next ones in the list
-  - [Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://www.amazon.com/dp/0134494164/ref=cm_sw_r_tw_dp_ZM23APP5MFEHK4KWGZBC)
-  - [Get Your Hands Dirty on Clean Architecture: A hands-on guide to creating clean web applications with code examples in Java](https://www.amazon.com/dp/1839211962/ref=cm_sw_r_tw_dp_N2VTMARVPD6F8D282FKA)
+  - [Clean Code: A Handbook of Agile Software Craftsmanship](https://a.co/d/18GVMvq)
+  - [Kotlin Coroutines by Tutorials (Second Edition): Mastering Coroutines in Kotlin and Android](https://a.co/d/1OeF5us)
+  - [Kotlin in Action](https://a.co/d/4U6venw6)
+- Next one in the list
+  - [Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://a.co/d/09Uz8K5)
 
 <br/>
